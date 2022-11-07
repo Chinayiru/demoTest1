@@ -1,8 +1,8 @@
 package yi.git;
 
 /**
- * @aythor yi
- * @data 2022/11/7 itime
+ * @aythor yi   
+ * @data 2022/11/7  17:01:07
  * @Description
  */
 public class GitTest {
